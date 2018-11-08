@@ -13,3 +13,8 @@ For few days I am working on this reference guide, then I'll move to C reference
 ##  08/11/2018
 psutil (python system and process utilities) is a cross-platform library for retrieving information on running processes and system utilization (CPU, memory, disks, network, sensors) in Python. It is useful mainly for system monitoring, profiling, limiting process resources and the management of running processes. It implements many functionalities offered by UNIX command line tools such as: ps, top, lsof, netstat, ifconfig, who, df, kill, free, nice, ionice, iostat, iotop, uptime, pidof, tty, taskset, pmap.
 - [psutil](https://psutil.readthedocs.io/en/latest/#find-process-by-name)
+- [Module winsound](https://docs.python.org/3/library/winsound.html#module-winsound)
+- [Speak Recognition](https://realpython.com/python-speech-recognition/)
+- [YOLO](https://pjreddie.com/darknet/yolo/)
+- [pynput.keyboard.Listener](https://www.programcreek.com/python/example/95388/pynput.keyboard.Listener)
+= [Programcreek](https://www.programcreek.com/python/)
