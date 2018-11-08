@@ -9,3 +9,7 @@ For few days I am working on this reference guide, then I'll move to C reference
 - https://programtalk.com/python-examples/
 - https://programtalk.com/vs2/?source=python/10241/PlagueScanner/windows_defender-agent.py
 - [cx_Freeze is a set of scripts and modules for freezing Python scripts into executables](ps://anthony-tuininga.github.io/cx_Freeze/)
+
+##  08/11/2018
+psutil (python system and process utilities) is a cross-platform library for retrieving information on running processes and system utilization (CPU, memory, disks, network, sensors) in Python. It is useful mainly for system monitoring, profiling, limiting process resources and the management of running processes. It implements many functionalities offered by UNIX command line tools such as: ps, top, lsof, netstat, ifconfig, who, df, kill, free, nice, ionice, iostat, iotop, uptime, pidof, tty, taskset, pmap.
+- [psutil](https://psutil.readthedocs.io/en/latest/#find-process-by-name)
